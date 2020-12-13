@@ -57,8 +57,8 @@ body a:hover {
 }
 
 nav {
-  padding-top: 60px;
-  padding-right: 140px;
+  float: left;
+  padding-left: 140px;
 }
 
 nav ul {
