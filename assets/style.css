@@ -57,7 +57,8 @@ body a:hover {
 }
 
 nav {
-
+  padding-top: 60px;
+  padding-right: 140px;
 }
 
 nav ul {
@@ -66,6 +67,7 @@ nav ul {
 
 nav li {
   display: inline-block;
+  margin-left: 20px;
   position: relative;
 }
 
