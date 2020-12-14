@@ -80,6 +80,7 @@ body{
 .wrapper{
   display: flex;
   position: relative;
+  margin-left: -20px;
 }
 
 .wrapper .sidebar a {
