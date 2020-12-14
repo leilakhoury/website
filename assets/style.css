@@ -107,8 +107,7 @@ body{
 
 
 .wrapper .sidebar ul li{
-  padding: 15px;
-  border-top: 1px solid rgba(255,255,255,0.05);
+  padding: 5px;
 }    
 
 .wrapper .sidebar ul li a{
