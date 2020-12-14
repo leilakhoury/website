@@ -97,6 +97,18 @@ body{
   border-top: 6px solid;
 }
 
+.wrapper .sidebar a.link1:hover{
+    color: green;
+}   
+
+.wrapper .sidebar a.link2:hover{
+    color: blue;
+}   
+
+.wrapper .sidebar a.link3:hover{
+    color: purple;
+}   
+
 .wrapper .sidebar{
   width: 200px;
   height: 100%;
