@@ -81,6 +81,7 @@ body{
   display: flex;
   position: relative;
   margin-left: -20px;
+  margin-right: 10px;
 }
 
 .wrapper .sidebar a {
