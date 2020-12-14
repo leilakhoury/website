@@ -55,32 +55,6 @@ body a:hover {
   width: 60%;
 }
 
-nav {
-  float: left;
-  padding-left: 140px;
-}
-
-nav ul {
-  list-style: none;
-}
-
-nav li {
-
-}
-
-nav a {
-  text-decoration: none;
-  font-weight: normal;
-  color: #000;
-  background-color: #FFFFFF;
-}
-
-nav a:hover {
-  text-decoration: none;
-  color: #000;
-  background-color: #FFFFFF;
-  border-top: 6px solid;
-}
 
 
 * {
@@ -140,12 +114,11 @@ body{
 }    
 
 .wrapper .sidebar ul li a{
-  color: #bdb8d7;
-  display: block;
+  color: #000;
 }
 
 .wrapper .sidebar ul li a .fas{
-  width: 25px;
+  width: 10px;
 }
 
 .wrapper .sidebar ul li:hover{
