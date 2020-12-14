@@ -93,19 +93,13 @@ body{
 
 }
 
-.wrapper .sidebar a.link1:hover{
+.wrapper .sidebar ul li:Link 1: hover{
     text-decoration: underline;
 	border-bottom: 20px; 
 	color: green;
 }   
 
-.wrapper .sidebar a.link2:hover{
-    color: blue;
-}   
-
-.wrapper .sidebar a.link3:hover{
-    color: purple;
-}   
+ 
 
 .wrapper .sidebar{
   width: 200px;
