@@ -109,6 +109,20 @@ body{
   position: relative;
 }
 
+.wrapper .sidebar a {
+  text-decoration: none;
+  font-weight: normal;
+  color: #000;
+  background-color: #FFFFFF;
+}
+
+.wrapper .sidebar a:hover {
+  text-decoration: none;
+  color: #000;
+  background-color: #FFFFFF;
+  border-top: 6px solid;
+}
+
 .wrapper .sidebar{
   width: 200px;
   height: 100%;
@@ -117,12 +131,6 @@ body{
   position: fixed;
 }
 
-.wrapper .sidebar h2{
-  color: #fff;
-  text-transform: uppercase;
-  text-align: center;
-  margin-bottom: 30px;
-}
 
 .wrapper .sidebar ul li{
   padding: 15px;
@@ -154,9 +162,3 @@ body{
   margin-left: 200px;
 }
 
-.wrapper .main_content .header{
-  padding: 20px;
-  background: #fff;
-  color: #717171;
-  border-bottom: 1px solid #e0e4e8;
-}
