@@ -81,6 +81,12 @@ body{
   background-color: #FFFFFF;
 }
 
+.wrapper .sidebar a: hover {
+    text-decoration: underline;
+	border-bottom: 20px; 
+	color: green;
+}
+
 
 .wrapper .sidebar{
   width: 200px;
