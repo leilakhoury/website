@@ -96,6 +96,14 @@ body{
 	border-bottom: 20px; 
 	color: green;
 }
+
+.wrapper .sidebar ul li:hover{
+  background-color: #594f8d;
+}
+    
+.wrapper .sidebar ul li:hover a{
+  color: #FFA500;
+}
  
 
 .wrapper .sidebar{
