@@ -20,6 +20,9 @@ body {
   padding: 2px; 
 }
 
+#left-block{
+  width: 50%; 
+}
 
 .left-col {
   float: left;
