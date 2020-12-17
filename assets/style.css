@@ -56,36 +56,6 @@ body a:hover {
   width: 60%;
 }
 
-nav {
-  float: right;
-  padding-top: 60px;
-  padding-right: 140px;
-}
-
-nav ul {
-  list-style: none;
-}
-
-nav li {
-  display: inline-block;
-  margin-left: 20px;
-  position: relative;
-}
-
-nav a {
-  text-decoration: none;
-  font-weight: normal;
-  color: #000;
-  background-color: #FFFFFF;
-}
-
-nav a:hover {
-  text-decoration: none;
-  color: #000;
-  background-color: #FFFFFF;
-  border-top: 6px solid;
-}
-
 
 * {
   box-sizing: border-box;
