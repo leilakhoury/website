@@ -80,7 +80,7 @@ body{
 .wrapper{
   display: flex;
   position: relative;
-  margin-left: -25px;
+  margin-left: 0px;
   padding-right: 20px;
 }
 
