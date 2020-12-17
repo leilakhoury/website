@@ -97,14 +97,6 @@ body{
 	color: green;
 }
 
-.wrapper .sidebar ul li:hover{
-  background-color: #594f8d;
-}
-    
-.wrapper .sidebar ul li:hover a{
-  color: #FFA500;
-}
- 
 
 .wrapper .sidebar{
   width: 200px;
@@ -129,7 +121,6 @@ body{
 .wrapper .sidebar ul li:hover{
   background-color: #FFFFFF;
   text-decoration: underline;
-  color: #000;
   background-color: #40E0D0;
   padding-top: -2px
 }
