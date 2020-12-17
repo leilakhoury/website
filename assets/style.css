@@ -46,17 +46,6 @@ body a:hover {
   color: #000;
 }
 
-.left-col {
-  float: left;
-  width: 30%;
-}
-
-.main-col {
-  float: right;
-  width: 60%;
-}
-
-
 
 * {
   box-sizing: border-box;
