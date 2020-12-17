@@ -105,7 +105,7 @@ body{
 .wrapper .sidebar ul li:hover{
   text-decoration: none;
   background-color: #40E0D0;
-  padding-top: -10px
+  padding: -3px 2px 6px 2px;
 }
 } 
 
