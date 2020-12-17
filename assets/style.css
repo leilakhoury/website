@@ -21,6 +21,16 @@ body {
 }
 
 
+.left-col {
+  float: left;
+  width: 30%;
+}
+
+.main-col {
+  float: right;
+  width: 60%;
+}
+
 h1 {
   color: #000;
 }
