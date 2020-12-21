@@ -99,3 +99,32 @@ body{
   background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
 }
 
+.link-1:hover {
+  text-decoration: none;
+  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+}
+
+.link-2:hover {
+  text-decoration: none;
+  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+}
+
+.link-3:hover {
+  text-decoration: none;
+  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+}
+
+.link-4:hover {
+  text-decoration: none;
+  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+}
+
+.link-5:hover {
+  text-decoration: none;
+  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+}
+
+.link-6:hover {
+  text-decoration: none;
+  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+}
