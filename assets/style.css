@@ -2,7 +2,6 @@ body {
   font-family: helvetica, arial, sans-serif;
 }
 
-
 ::selection {
   background: #decdb1;
 }
@@ -12,13 +11,13 @@ body {
   font-weight: bold;
   color: #000;
   background-color: none;
-  padding: 2px; 
+  padding: 2px;
 }
 
 .body-link:hover {
   color: #000;
   background-color: #c1bbc9;
-  padding: 2px; 
+  padding: 2px;
 }
 
 h1 {
@@ -30,7 +29,7 @@ h2 {
 }
 
 h3 {
-	padding-left: 0px
+  padding-left: 0px;
 }
 
 body a {
@@ -44,87 +43,87 @@ body a:hover {
   color: #000;
 }
 
-#right-block{
-  width: 85%; 
+#right-block {
+  width: 85%;
 }
 
-*{
+* {
   margin: 0;
   padding: 0;
-  box-sizing: border-box; 
+  box-sizing: border-box;
   list-style: none;
   text-decoration: none;
   font-family: helvetica, arial, sans-serif;
 }
 
-body{
-   background-color: none;
+body {
+  background-color: none;
 }
 
-.wrapper{
+.wrapper {
   display: flex;
   position: relative;
   margin-left: -150px;
 }
 
-.wrapper .sidebar{
+.wrapper .sidebar {
   height: 100%;
   position: fixed;
 }
 
-.wrapper .sidebar h3{
+.wrapper .sidebar h3 {
   color: #000;
   text-transform: uppercase;
   text-align: left;
   margin-bottom: 30px;
 }
 
-.wrapper .sidebar ul li{
-  padding: 5px;
+.wrapper .sidebar ul li {
+  padding: 7px;
+}
 
-}    
-
-.wrapper .sidebar ul li a{
+.wrapper .sidebar ul li a {
   color: #000;
 }
 
 .wrapper .sidebar a {
   text-decoration: none;
-  font-weight: bold;
-}
-
-
-.wrapper .sidebar ul li a:hover{
-  text-decoration: none;
-  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+  font-weight: normal;
+  font-size: 20px;
 }
 
 .link-1:hover {
   text-decoration: none;
-  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+  background: linear-gradient(180deg, #FFF 50%, #b8b1cc 50%);
+  padding: 0px 5px 3px 0px;
 }
 
 .link-2:hover {
   text-decoration: none;
-  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+  background: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
+  padding: 0px 5px 3px 0px;
 }
 
 .link-3:hover {
   text-decoration: none;
-  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+  background: linear-gradient(180deg, #FFF 50%, #b51660 50%);
+  padding: 0px 5px 3px 0px;
 }
 
 .link-4:hover {
   text-decoration: none;
-  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+  background: linear-gradient(180deg, #FFF 50%, #a3c4be 50%);
+  padding: 0px 5px 3px 0px;
 }
 
 .link-5:hover {
   text-decoration: none;
-  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+  background: linear-gradient(180deg, #FFF 50%, #D3D3D3 50%);
+  padding: 0px 5px 3px 0px;
 }
 
 .link-6:hover {
   text-decoration: none;
-  background:linear-gradient(180deg,#FFF 55%,#D3D3D3 45%);
+  background: linear-gradient(180deg, #FFF 50%, #decdb1 50%);
+  padding: 0px 5px 3px 0px;
 }
