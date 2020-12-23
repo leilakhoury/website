@@ -92,41 +92,26 @@ body {
   font-size: 20px;
 }
 
-.link-1:hover {
+a.link-1:hover, a.link-1:active {
   text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #b8b1cc 50%);
   padding: 0px 5px 3px 0px;
 }
 
-.link-1 a:active{
-text-decoration: none;
-  background-color: linear-gradient(180deg, #FFF 50%, #b8b1cc 50%);
-  padding: 0px 5px 3px 0px;
-}
 
-.link-2:hover {
+a.link-2:hover, a.link-1:active {
   text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
   padding: 0px 5px 3px 0px;
 }
 
-.link-2 a:active {
-  text-decoration: none;
-  background-color: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
-  padding: 0px 5px 3px 0px;
-}
 
-.link-3:hover {
+.link-3:hover, .link-3:active {
   text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #d41759 50%);
   padding: 0px 5px 3px 0px;
 }
 
-.link-3 a:active {
-  text-decoration: none;
-  background-color: linear-gradient(180deg, #FFF 50%, #d41759 50%);
-  padding: 0px 5px 3px 0px;
-}
 
 .link-4:hover {
   text-decoration: none;
