@@ -92,26 +92,42 @@ body {
   font-size: 20px;
 }
 
-a.link-1:hover, a.link-1:active {
+.link-1:hover {
+  text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #b8b1cc 50%);
+  padding: 0px 5px 3px 0px;
+}
+
+#sidebarccarchives {
   text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #b8b1cc 50%);
   padding: 0px 5px 3px 0px;
 }
 
 
-a.link-2:hover, a.link-1:active {
+.link-2:hover {
   text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
   padding: 0px 5px 3px 0px;
 }
 
+#sidebarasoulfulbody {
+  text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
+  padding: 0px 5px 3px 0px;
+}
 
-.link-3:hover, .link-3:active {
+.link-3:hover {
   text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #d41759 50%);
   padding: 0px 5px 3px 0px;
 }
 
+#sidebarneareast {
+  text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #d41759 50%);
+  padding: 0px 5px 3px 0px;
+}
 
 .link-4:hover {
   text-decoration: none;
@@ -119,11 +135,12 @@ a.link-2:hover, a.link-1:active {
   padding: 0px 5px 3px 0px;
 }
 
-.link-4 a:active {
+#sidebaraljiran {
   text-decoration: none;
-  background-color: linear-gradient(180deg, #FFF 50%, #decdb1 50%);
+  background: linear-gradient(180deg, #FFF 50%, #decdb1 50%);
   padding: 0px 5px 3px 0px;
 }
+
 
 .link-5:hover {
   text-decoration: none;
@@ -131,9 +148,9 @@ a.link-2:hover, a.link-1:active {
   padding: 0px 5px 3px 0px;
 }
 
-.link-5 a:active {
-  text-decoration: none;
-  background-color: linear-gradient(180deg, #FFF 50%, #D3D3D3 50%);
+#sidebardirges {
+    text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #D3D3D3 50%);
   padding: 0px 5px 3px 0px;
 }
 
@@ -143,16 +160,8 @@ a.link-2:hover, a.link-1:active {
   padding: 0px 5px 3px 0px;
 }
 
-.link-6 a:active {
-  text-decoration: none;
-  background-color: linear-gradient(180deg, #FFF 50%, #8db5ae 50%);
+#sidebarabout {
+    text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #8db5ae 50%);
   padding: 0px 5px 3px 0px;
-}
-
-a.link-6:active{
-	background-color: linear-gradient(180deg, #FFF 50%, #8db5ae 50%);
-}
-
-a.link-6:visited{
-	background-color: linear-gradient(180deg, #FFF 50%, #8db5ae 50%);
 }
