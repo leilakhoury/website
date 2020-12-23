@@ -100,7 +100,7 @@ body {
 
 .link-1 a:active{
 text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #b8b1cc 50%);
+  background-color: linear-gradient(180deg, #FFF 50%, #b8b1cc 50%);
   padding: 0px 5px 3px 0px;
 }
 
@@ -112,7 +112,7 @@ text-decoration: none;
 
 .link-2 a:active {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
+  background-color: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
   padding: 0px 5px 3px 0px;
 }
 
@@ -124,7 +124,7 @@ text-decoration: none;
 
 .link-3 a:active {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #d41759 50%);
+  background-color: linear-gradient(180deg, #FFF 50%, #d41759 50%);
   padding: 0px 5px 3px 0px;
 }
 
@@ -136,7 +136,7 @@ text-decoration: none;
 
 .link-4 a:active {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #decdb1 50%);
+  background-color: linear-gradient(180deg, #FFF 50%, #decdb1 50%);
   padding: 0px 5px 3px 0px;
 }
 
@@ -148,7 +148,7 @@ text-decoration: none;
 
 .link-5 a:active {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #D3D3D3 50%);
+  background-color: linear-gradient(180deg, #FFF 50%, #D3D3D3 50%);
   padding: 0px 5px 3px 0px;
 }
 
@@ -160,6 +160,6 @@ text-decoration: none;
 
 .link-6 a:active {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #8db5ae 50%);
+  background-color: linear-gradient(180deg, #FFF 50%, #8db5ae 50%);
   padding: 0px 5px 3px 0px;
 }
