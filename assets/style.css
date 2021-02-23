@@ -65,12 +65,12 @@ body {
 }
 
 #container #left{
-	width: 5%;
+	width: 8%;
 	float:left ;
 }
 
 #container #right{
-	width:95%;
+	width:92%;
 	float:left;
 }
 
