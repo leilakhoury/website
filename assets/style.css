@@ -60,6 +60,16 @@ body {
   background-color: none;
 }
 
+#container #left{
+	width: 100px;
+	float:left ;
+}
+
+#container #right{
+	width:400px;
+	float:right;
+}
+
 .wrapper {
   display: flex;
   position: relative;
