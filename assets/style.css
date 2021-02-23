@@ -60,13 +60,19 @@ body {
   background-color: none;
 }
 
+#container{
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
 #container #left{
-	width: 100px;
+	width: 20%;
 	float:left ;
 }
 
 #container #right{
-	width:400px;
+	width:65%;
 	float:right;
 }
 
