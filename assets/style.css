@@ -61,16 +61,16 @@ body {
 }
 
 #container{
-	width: 900px;
+	width: 100%;
 }
 
 #container #left{
-	width: 100px;
+	width: 20%;
 	float:left ;
 }
 
 #container #right{
-	width:800px;
+	width:80%;
 	float:right;
 }
 
