@@ -47,6 +47,11 @@ body a:hover {
   width: 85%;
 }
 
+.tab {
+    display: inline-block;
+    margin-left: 40px;
+}
+
 * {
   margin: 0;
   padding: 0;
