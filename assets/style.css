@@ -186,11 +186,12 @@ body {
 
 
 .right_inner{
+	padding: 0px;
 	color: #000;
 }
 
 .right_inner .education{
-	margin-top: 30px;
+	margin-top: 0px;
 }
 
 .right_inner .li_wrap{
@@ -200,7 +201,8 @@ body {
 
 .right_inner .li_wrap .date {
     width: 125px;
-    color: #9153c9;
+    color: #000;
+    font-weight: bold;
 }
 
 .right_inner .li_wrap .info{
