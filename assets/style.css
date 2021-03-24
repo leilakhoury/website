@@ -182,19 +182,18 @@ body {
 }
 
 
-
-
-
 .right_inner{
 	padding: 0px;
 	color: #000;
 }
 
 .right_inner .title{
-	margin-bottom: 10px;
-	margin-top: 10px;
+	padding-bottom: 15px;
 }
 
+.title{
+	padding-bottom: 15px;
+}
 
 .right_inner .li_wrap{
 	display: flex;
@@ -202,7 +201,7 @@ body {
 }
 
 .right_inner .li_wrap .date {
-    width: 90px;
+    width: 50px;
     color: #000;
     font-weight: bold;
 }
