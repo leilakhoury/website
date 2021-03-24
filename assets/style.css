@@ -198,6 +198,7 @@ body {
 }
 
 .right_inner .li_wrap .date {
+	padding-right: 15px;
     color: #000;
     font-weight: bold;
 }
