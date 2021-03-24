@@ -196,7 +196,7 @@ body {
 
 .right_inner .li_wrap{
 	display: flex;
-	margin-bottom: 15px;
+	margin-bottom: 0px;
 }
 
 .right_inner .li_wrap .date {
