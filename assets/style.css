@@ -187,12 +187,9 @@ body {
 	color: #000;
 }
 
-.right_inner .title{
-	padding-bottom: 15px;
-}
-
 .title{
 	padding-bottom: 15px;
+	padding-top: 20px;
 }
 
 .right_inner .li_wrap{
