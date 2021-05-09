@@ -200,10 +200,11 @@ body {
 .right_inner .li_wrap .date {
     color: #000;
     font-weight: bold;
-    padding-right: 50px;
+    margin-right: 50px;
 }
 
 
 .right_inner .li_wrap .info_cont{
 	margin-top: 0px;
+	margin-left: 50px;
 }
