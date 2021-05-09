@@ -198,7 +198,6 @@ body {
 }
 
 .right_inner .li_wrap .date {
-	margin-right: 50px;
     color: #000;
     font-weight: bold;
 }
@@ -206,4 +205,5 @@ body {
 
 .right_inner .li_wrap .info_cont{
 	margin-top: 0px;
+	margin-left: 25px;
 }
