@@ -109,54 +109,54 @@ body {
 
 .link-1:hover {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #6002a6 50%);
+  background: linear-gradient(180deg, #FFF 50%, #6f3ccc 50%);
   padding: 0px 5px 3px 0px;
 }
 
 #sidebarccarchives {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #6002a6 50%);
+  background: linear-gradient(180deg, #FFF 50%, #6f3ccc 50%);
   padding: 0px 5px 3px 0px;
 }
 
 
 .link-2:hover {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
+  background: linear-gradient(180deg, #FFF 50%, #ccc61b 50%);
   padding: 0px 5px 3px 0px;
 }
 
 #sidebarasoulfulbody {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #fff09e 50%);
+  background: linear-gradient(180deg, #FFF 50%, #ccc61b 50%);
   padding: 0px 5px 3px 0px;
 }
 
 .link-3:hover {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #d41759 50%);
+  background: linear-gradient(180deg, #FFF 50%, #0f9c97 50%);
   padding: 0px 5px 3px 0px;
 }
 
 #sidebarsf {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #d41759 50%);
+  background: linear-gradient(180deg, #FFF 50%, #0f9c97 50%);
   padding: 0px 5px 3px 0px;
 }
 
 .link-4:hover {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #d41759 50%);
+  background: linear-gradient(180deg, #FFF 50%, #9c0f58 50%);
   padding: 0px 5px 3px 0px;
 }
 
 #sidebarneareast {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #d41759 50%);
+  background: linear-gradient(180deg, #FFF 50%, #9c0f58 50%);
   padding: 0px 5px 3px 0px;
 }
 
-.link-4:hover {
+.link-5:hover {
   text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #decdb1 50%);
   padding: 0px 5px 3px 0px;
@@ -169,27 +169,27 @@ body {
 }
 
 
-.link-5:hover {
+.link-6:hover {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #D3D3D3 50%);
+  background: linear-gradient(180deg, #FFF 50%, #7c7c7c 50%);
   padding: 0px 5px 3px 0px;
 }
 
 #sidebardirges {
     text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #D3D3D3 50%);
+  background: linear-gradient(180deg, #FFF 50%, #7c7c7c 50%);
   padding: 0px 5px 3px 0px;
 }
 
-.link-6:hover {
+.link-7:hover {
   text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #0212a6 50%);
+  background: linear-gradient(180deg, #FFF 50%, #2a309d 50%);
   padding: 0px 5px 3px 0px;
 }
 
 #sidebarabout {
     text-decoration: none;
-  background: linear-gradient(180deg, #FFF 50%, #0212a6 50%);
+  background: linear-gradient(180deg, #FFF 50%, #2a309d 50%);
   padding: 0px 5px 3px 0px;
 }
 
