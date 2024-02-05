@@ -109,6 +109,20 @@ body {
 
 
 
+
+/* Style the sidenav links and the dropdown button */
+.dropdown-btn {
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
 .link-1:hover {
   text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #51604b 50%);
