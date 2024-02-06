@@ -50,6 +50,22 @@ document.addEventListener("DOMContentLoaded", function(){
                 // if it exists, then close all of them
                 if(opened_submenu){
                   new bootstrap.Collapse(opened_submenu);
+
+
+             // Get expanded states for each ul.
+             var expanded=[];
+             $("ul").each(function(){
+            var thisExpanded = $(this).attr("aria-expanded");
+            console.log(thisExpanded);
+
+            if(typeof(thisExpanded) != "undefined"){
+             expanded.push( thisExpanded );
+            }else{
+             expanded.push("undefined");
+        }
+      });
+
+
                 }
             }
         }
