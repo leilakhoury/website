@@ -95,21 +95,23 @@ body {
 
 .wrapper .sidebar ul li {
   padding: 7px;
-  text-align:left;
+  text-align: left;
 }
 
 .wrapper .sidebar ul li a {
   color: #000;
+  text-align: left;
 }
 
 .wrapper .sidebar a {
   text-decoration: none;
   font-weight: normal;
   font-size: 20px;
+  text-align: left;
 }
 
 
-.sidebar .nav-link ul li a {
+.sidebar .nav-link {
 text-align: left;
 }
 
@@ -117,7 +119,7 @@ text-align: left;
   list-style: none; 
   margin: 0; 
   padding: 0; 
-  text-align:left;
+  text-align: left;
 
 }
 
