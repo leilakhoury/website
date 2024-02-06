@@ -79,6 +79,7 @@ body {
   display: flex;
   position: relative;
   margin-left: -150px;
+  text-align: left;
 }
 
 .wrapper .sidebar {
@@ -110,8 +111,6 @@ body {
   font-size: 20px;
   text-align: left;
 }
-
-
 
 
 
