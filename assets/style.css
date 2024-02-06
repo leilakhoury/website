@@ -95,6 +95,7 @@ body {
 
 .wrapper .sidebar ul li {
   padding: 7px;
+  text-align:left;
 }
 
 .wrapper .sidebar ul li a {
@@ -114,6 +115,8 @@ body {
   list-style: none; 
   margin: 0; 
   padding: 0; 
+  text-align:left;
+
 }
 
 
