@@ -112,6 +112,11 @@ body {
   text-align: left;
 }
 
+.sidebar {
+  position: fixed;
+  text-align: left;
+}
+
 .nav-link {
   text-align: left;
 }
