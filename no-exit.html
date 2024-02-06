@@ -60,21 +60,6 @@ document.addEventListener("DOMContentLoaded", function(){
 </script>
 
 
-<script>
-  var url = location.href;
-
-$('.sub-menu').each(function() {
-    var $dropdownmenu = $(this);
-    $(this).find('li').each(function() {
-        if( $(this).find('a').attr('href')== url ) {
-            console.log( $dropdownmenu ); // this is your dropdown menu which you want to display
-            console.log($($dropdownmenu).parents('li')); // this is the parent list item of the dropdown menu. Add collapse class or whatever that collapses its child list
-        }
-    });
-});
-</script>
-
-
 
 
   </head>
