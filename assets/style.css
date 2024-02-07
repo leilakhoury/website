@@ -115,7 +115,7 @@ body {
 
 
 
-.flex-column {
+.flex-column li {
   text-decoration: none;
   display: block;
   cursor: pointer;
