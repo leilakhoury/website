@@ -119,15 +119,18 @@ body {
 
 .nav-link {
   text-align: left;
+  overflow-x: hidden;
 }
 
 .nav-item { 
   text-align: left;
+  overflow-x: hidden;
  }
 
 
 .nav-accordion {
   text-align: left;
+  overflow-x: hidden;
 }
 
 
