@@ -131,6 +131,12 @@ body {
 }
 
 
+.submenu {
+overflow-x: hidden;
+text-align: left;
+}
+
+
 
 .link-1:hover {
   text-decoration: none;
