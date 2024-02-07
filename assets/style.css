@@ -115,13 +115,20 @@ body {
 
 
 
-.flex-column ul li a {
+.flex-column li a {
   text-decoration: none;
   display: block;
   cursor: pointer;
-  text-align: left;
   padding-left: 0px !important;
+  text-align: left;
 }
+
+.flex-column > li > a {
+  padding-left: 0px !important;
+  text-align: left;
+}
+
+
 
 
 
