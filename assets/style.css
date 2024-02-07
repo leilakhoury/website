@@ -123,11 +123,11 @@ body {
   padding-left: 0px !important;
 }
 
-.flex-column > li > a {
+
+.flex-column ul li a {
   padding-left: 0px !important;
   text-align: left;
 }
-
 
 
 
