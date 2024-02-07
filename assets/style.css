@@ -124,7 +124,10 @@ body {
   text-align: left;
 }
 
-
+.nav-item.has-submenu li {
+  text-align:left;
+  padding-left:0px !important;
+}
 
 
 
