@@ -108,7 +108,8 @@ body {
 }
 
 .wrapper .sidebar a {
-  text-decoration: none;
+height:100%;
+text-decoration: none;
   font-weight: normal;
   font-size: 20px;
   text-align: left;
@@ -116,8 +117,8 @@ body {
 
 
 
-
 .flex-column ul li a {
+  height: 100%;
   text-decoration: none;
   display: block;
   cursor: pointer;
@@ -130,7 +131,10 @@ body {
   padding-left:0px !important;
 }
 
-
+.nav-item li{
+  text-align:left;
+  padding-left:0px !important;
+}
 
 
 .link-1:hover {
