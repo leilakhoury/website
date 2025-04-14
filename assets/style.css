@@ -158,6 +158,30 @@ body {
 }
 
 
+.link-16:hover {
+    text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #c39e46 50%);
+  padding: 0px 5px 3px 0px;
+}
+
+#sidebarourgold {
+    text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #c39e46 50%);
+  padding: 0px 5px 3px 0px;
+}
+
+.link-15:hover {
+    text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #c39e46 50%);
+  padding: 0px 5px 3px 0px;
+}
+
+#sidebarolivetree {
+    text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #c39e46 50%);
+  padding: 0px 5px 3px 0px;
+}
+
 .link-3:hover {
     text-decoration: none;
   background: linear-gradient(180deg, #FFF 50%, #c39e46 50%);
