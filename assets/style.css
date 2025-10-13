@@ -392,6 +392,18 @@ body {
   padding: 0px 5px 3px 0px;
 }
 
+.link-19:hover {
+    text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #c39e46 50%);
+  padding: 0px 5px 3px 0px;
+}
+
+#sidebarhumblegrit {
+    text-decoration: none;
+  background: linear-gradient(180deg, #FFF 50%, #c39e46 50%);
+  padding: 0px 5px 3px 0px;
+}
+
 
 
 .right_inner{
